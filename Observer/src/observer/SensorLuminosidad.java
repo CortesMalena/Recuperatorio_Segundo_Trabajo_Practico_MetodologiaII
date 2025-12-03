@@ -13,8 +13,10 @@ public class SensorLuminosidad extends Sensor {
         super("Luminosidad", umbral);
     }
 
-    @Override
-    public void establecerValor() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+     @Override
+    public void leerDeFormaEspecifica(int valor) {
+        // Lógica de lectura de Sensor luminosidad
+        System.out.println("(SENSOR LUMINOSIDAD) Leyendo de forma especifica el valor "
+                + valor + "...");
     }
 }

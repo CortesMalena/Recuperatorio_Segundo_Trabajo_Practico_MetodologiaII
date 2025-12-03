@@ -14,7 +14,9 @@ public class SensorHumedad extends Sensor {
     }
     
     @Override
-    public void establecerValor() {
-        // Lógica de lectura de humedad
+    public void leerDeFormaEspecifica(int valor) {
+        // Lógica de lectura de Sensor humedad
+        System.out.println("(SENSOR HUMEDAD) Leyendo de forma especifica el valor "
+                + valor + "...");
     }
 }

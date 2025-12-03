@@ -14,8 +14,10 @@ public class SensorTemperatura extends Sensor {
     }
     
     @Override
-    public void establecerValor() {
-        // En un sistema real, aquí se leería el hardware.
+    public void leerDeFormaEspecifica(int valor) {
+        // Lógica de lectura de Sensor temperatura
+        System.out.println("(SENSOR TEMPERATURA) Leyendo de forma especifica el valor "
+                + valor + "...");
     }
 }
 

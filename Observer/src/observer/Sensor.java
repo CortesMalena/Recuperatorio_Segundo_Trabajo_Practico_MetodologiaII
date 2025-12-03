@@ -35,6 +35,7 @@ abstract public class Sensor {
     }
 
     public void setLecturaSensor(int valor) {
+        leerDeFormaEspecifica(valor);
         this.lectura = valor;
         notificarObserver();
     }
@@ -52,5 +53,5 @@ abstract public class Sensor {
     public String getTipoValorALeer() { return tipoValorALeer; }
     public int getUmbralMaximo() { return umbralMaximo; }
 
-    public abstract void establecerValor();
+    public abstract void leerDeFormaEspecifica(int valor);
 }
