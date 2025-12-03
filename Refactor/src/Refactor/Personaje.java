@@ -25,7 +25,7 @@ public class Personaje {
     }
 
     public int calcularFuerzaFinal() {
-        return habilidad.calcularDaño(fuerzaBase);
+        return habilidad.calcularDanio(fuerzaBase);
     }
 
     public String getNombre() {

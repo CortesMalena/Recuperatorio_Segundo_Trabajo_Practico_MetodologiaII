@@ -9,7 +9,7 @@ public class HabilidadMagica implements TipoHabilidad {
     }
 
     @Override
-    public int calcularDaño(int fuerzaBase) {
+    public int calcularDanio(int fuerzaBase) {
         return fuerzaBase * MULTIPLICADOR_DANIO;
     }
 
