@@ -4,3 +4,5 @@
 - Div.: 141
 - Grupo N°: 6
 - Integrantes: Alderete Lautaro, Barrios Alfonzo Ramiro, Basso Santiago, Pokoik Lucia Laura, Cortes Malena Nahir, Anahí González Pineda, Martin Gomez Valle
+
+[Ver PDF](./Grupo6.pdf)
