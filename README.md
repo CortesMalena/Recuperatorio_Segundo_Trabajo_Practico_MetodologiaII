@@ -5,4 +5,4 @@
 - Grupo N°: 6
 - Integrantes: Alderete Lautaro, Barrios Alfonzo Ramiro, Basso Santiago, Pokoik Lucia Laura, Cortes Malena Nahir, Anahí González Pineda, Martin Gomez Valle
 
-##[Ver PDF con los diagramas integrados](./Grupo6.pdf)
+[Haz click aqui para visualizar el PDF con los diagramas integrados](./Grupo6.pdf)
